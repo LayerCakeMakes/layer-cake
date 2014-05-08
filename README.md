@@ -8,7 +8,7 @@ Modifications for the [Kossel Mini](https://github.com/jcrocholl/kossel) by Joha
 
 ### Software
 
-All the parts have been designed in FreeCAD.
+All parts have been designed in FreeCAD.  
 The repository contains a FreeCAD file and an stl for each part.
 
 ## Project Goals
