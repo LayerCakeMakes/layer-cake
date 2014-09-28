@@ -16,3 +16,4 @@ The repository contains a FreeCAD file and an stl for each part.
 * Fit all electronics in the printer enclosure.
 * Integrate a raspberry pi for running octoprint.
 * Make the effector easily swappable.
+* Integrated belt tensioning system.
