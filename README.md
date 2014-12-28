@@ -1,10 +1,10 @@
 # Layer Cake
 
-Modifications for the [Kossel Mini](https://github.com/jcrocholl/kossel) by Johann C. Rocholl.
+Delta robot 3D printer based on the [Kossel Mini](https://github.com/jcrocholl/kossel) by Johann C. Rocholl.
 
 ## Project State
 
-**Design** - The parts are still under heavy development, nothing is final yet.
+**Prototype** - Some parts are still missing or under heavy development. The printer is already printing its own parts.
 
 ### Software
 
@@ -13,7 +13,7 @@ The repository contains a FreeCAD file and an stl for each part.
 
 ## Project Goals
 
-* Fit all electronics in the printer enclosure.
-* Integrate a raspberry pi for running octoprint.
-* Make the effector easily swappable.
-* Integrated belt tensioning system.
+- [x] Fit all electronics in the printer enclosure.
+- [ ] Integrate a raspberry pi and touchscreen for running octoprint.
+- [x] Make the effector easily swappable.
+- [x] Integrated belt tensioning system.
