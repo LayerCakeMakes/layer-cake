@@ -35,10 +35,10 @@
 
 #### Printed Parts
 
-  - 2 x [LayerCake.SpoolHolder.Frame.Sides.Base.stl][8]
-  - 2 x [LayerCake.SpoolHolder.Frame.Sides.Body.stl][9]
-  - 1 x [LayerCake.SpoolHolder.Frame.Back.Base.stl][10]
-  - 1 x [LayerCake.SpoolHolder.Frame.Back.Base.stl][11]
+  - 2 x [LayerCake.SpoolHolder.Frame.Bases.Sides.stl][8]
+  - 2 x [LayerCake.SpoolHolder.Frame.Bodies.Sides.stl][9]
+  - 1 x [LayerCake.SpoolHolder.Frame.Bases.Back.stl][10]
+  - 1 x [LayerCake.SpoolHolder.Frame.Bodies.Back.stl][11]
 
 #### Nuts & Bolts
 
@@ -56,7 +56,7 @@
 [5]: ../parts/LayerCake.SpoolHolder.Bodies.Verbatim.stl
 [6]: ../parts/LayerCake.SpoolHolder.Nut.stl
 [7]: ../parts/LayerCake.SpoolHolder.BearingShaft.stl
-[8]: ../parts/LayerCake.SpoolHolder.Frame.Sides.Base.stl
-[9]: ../parts/LayerCake.SpoolHolder.Frame.Sides.Body.stl
-[10]: ../parts/LayerCake.SpoolHolder.Frame.Back.Base.stl
-[11]: ../parts/LayerCake.SpoolHolder.Frame.Back.Body.stl
+[8]: ../parts/LayerCake.SpoolHolder.Frame.Bases.Sides.stl
+[9]: ../parts/LayerCake.SpoolHolder.Frame.Bodies.Sides.stl
+[10]: ../parts/LayerCake.SpoolHolder.Frame.Bases.Back.stl
+[11]: ../parts/LayerCake.SpoolHolder.Frame.Bodies.Back.stl
