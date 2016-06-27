@@ -5,9 +5,9 @@ Delta robot 3D printer based on the [Kossel Mini](https://github.com/jcrocholl/k
 ## Project State
 
 **Prototype** - Some parts are still missing or under heavy development. The printer is already printing its own parts.
-<img src="img/LayerCake_Front.jpg" width="275">
-<img src="img/LayerCake_Left.jpg" width="275">
-<img src="img/LayerCake_Right.jpg" width="275">
+<img alt="Front" src="img/LayerCake_Front.jpg" width="275">
+<img alt="Left" src="img/LayerCake_Left.jpg" width="275">
+<img alt="Right" src="img/LayerCake_Right.jpg" width="275">
 
 ### Software
 
