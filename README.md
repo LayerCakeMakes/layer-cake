@@ -17,6 +17,6 @@ The repository contains a FreeCAD file and an stl for each part.
 ## Project Goals
 
 - [x] Fit all electronics in the printer enclosure.
-- [ ] Integrate a raspberry pi and touchscreen for running octoprint.
+- [x] Integrate a raspberry pi and touchscreen for running octoprint.
 - [x] Make the effector easily swappable.
 - [x] Integrated belt tensioning system.
