@@ -1,4 +1,5 @@
 *.fcstd1
+*.gcode
 *.step
 *.svg
 *.zip
