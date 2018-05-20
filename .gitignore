@@ -3,3 +3,4 @@
 *.step
 *.svg
 *.zip
+.DS_Store
